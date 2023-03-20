@@ -1,8 +1,5 @@
-Newvoase
-loi
 haber
 new
-mis
 django rest framework
 gui
 master
